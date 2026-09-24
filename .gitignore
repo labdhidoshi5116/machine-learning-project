@@ -1,0 +1,7 @@
+# Virtual environments & Cache
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Local IDE/project metadata
+anaconda_projects/
